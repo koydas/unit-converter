@@ -8,6 +8,7 @@ const StyledTab = styled.div`
 
     &.active [data-content] {
         display: block;
+        padding: 2em;
     }
 `
 
@@ -18,7 +19,6 @@ const StyledContent = styled.span`
 `
 
 function tabClicked(e, setActive) {
-    console.log(arr)
     if (e.target.hasAttribute("data-title"))
     {
         arr.forEach(e=> e(false))
