@@ -1,8 +1,6 @@
 [![pages-build-deployment](https://github.com/koydas/unit-converter/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/koydas/unit-converter/actions/workflows/pages/pages-build-deployment)
 
 # unit-converter
-
-# cookie-consent
 ### How it works
 > TODO
 
