@@ -4,6 +4,10 @@
 ### How it works
 > TODO
 
+### Dependancies
+#### Nextjs
+This project has been done with [nextjs](https://nextjs.org/).
+
 ### Where ?
 Visit https://koydas.github.io/unit-converter
 
